@@ -1,0 +1,3 @@
+[submodule "cocos-headers"]
+	path = cocos-headers
+	url = https://github.com/cierra-kb/cocos2d-x-1.3.git
