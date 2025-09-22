@@ -21,6 +21,6 @@ public:
         cocos2d::CCNode* sprite,
         cocos2d::CCNode* unknown,
         cocos2d::CCObject* target,
-        SEL_MenuHandler callback
+        cocos2d::SEL_MenuHandler callback
     );
 };
